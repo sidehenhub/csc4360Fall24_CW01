@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/stuart/z_MobDevProject_csc4360/fall24test_csc4360/cw01/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.1.0"
+    buildFolder="/Users/stuart/z_MobDevProject_csc4360/fall24test_csc4360/cw01/build/app"
+    bootClassPath="/Users/stuart/Library/Android/sdk/platforms/android-34/android.jar:/Users/stuart/Library/Android/sdk/build-tools/33.0.1/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
